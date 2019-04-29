@@ -1,6 +1,5 @@
 # Command-Line-Interface---using-python
-Arguments.py : classify text input as ‘flags’ , ‘numbers’ or ‘file location’ and creates a
-dictionary using all these arguments.
+Arguments.py : classify text input as ‘flags’ , ‘numbers’ or ‘file location’ and creates a dictionary using all these arguments.
 
 Books.py : fetches details like book id from googlebooks.com based on a given string , also searches for preface , isbn and author based on
 the book id.
